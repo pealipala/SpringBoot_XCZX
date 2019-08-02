@@ -20,40 +20,40 @@
 
 ## 首页
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/index.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/index.png)
 
 ## cms
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/cms.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/cms.png)
 
 ## course
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course_info.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course_info.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course_image.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course_image.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course_sale.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course_sale.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course_publish.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course_publish.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course_detail.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course_detail.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course_plan.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course_plan.png)
 
 ## media
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/media.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/media.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course_video_01.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course_video_01.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/course_video_02.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/course_video_02.png)
 
 ## search
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/search_01.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/search_01.png)
 
-![Image text](https://github.com/pealipala/file/blob/master/XCZX/search_02.png)
+![Image text](https://github.com/pealipala/SpringBoot_xczx/blob/master/xc-project-picture/search_02.png)
 
 
