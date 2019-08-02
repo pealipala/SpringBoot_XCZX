@@ -4,7 +4,7 @@
 
 # 技术栈
 
-基于Spring Boot构建，采用Spring Cloud微服务框架。
+基于Spring Boot构建，采用Spring Cloud微服务框架
 
 持久层：MySQL、MongoDB、Redis、ElasticSearch
 
